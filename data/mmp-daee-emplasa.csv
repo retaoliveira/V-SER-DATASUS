@@ -1,0 +1,573 @@
+Recorte,Código IBGE,Município,Unidade de Gerenciamento de Recursos Hídricos (UGRHI) ,Região Administrativa,Região de Governo,Região Metropolitana,Aglomerações Urbanas
+EMPLASA,3509700,Campos do Jordão,01 - Mantiqueira,Região Administrativa de São José dos Campos,Região de Governo de Taubaté,Região Metropolitana do Vale do Paraíba e Litoral Norte,-
+EMPLASA,3548203,Santo Antônio do Pinhal,01 - Mantiqueira,Região Administrativa de São José dos Campos,Região de Governo de Taubaté,Região Metropolitana do Vale do Paraíba e Litoral Norte,-
+EMPLASA,3548609,São Bento do Sapucaí,01 - Mantiqueira,Região Administrativa de São José dos Campos,Região de Governo de Taubaté,Região Metropolitana do Vale do Paraíba e Litoral Norte,-
+EMPLASA e DAEE,3502507,Aparecida,02 - Paraíba do Sul,Região Administrativa de São José dos Campos,Região de Governo de Guaratinguetá,Região Metropolitana do Vale do Paraíba e Litoral Norte,-
+DAEE,3501905,Amparo,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Bragança Paulista,-,-
+EMPLASA,3503158,Arapeí,02 - Paraíba do Sul,Região Administrativa de São José dos Campos,Região de Governo de Cruzeiro,Região Metropolitana do Vale do Paraíba e Litoral Norte,-
+DAEE,3502309,Anhembi,10 - Tietê/Sorocaba,Região Administrativa de Sorocaba,Região de Governo de Botucatu,-,-
+EMPLASA e DAEE,3503505,Areias,02 - Paraíba do Sul,Região Administrativa de São José dos Campos,Região de Governo de Cruzeiro,Região Metropolitana do Vale do Paraíba e Litoral Norte,-
+EMPLASA,3504909,Bananal,02 - Paraíba do Sul,Região Administrativa de São José dos Campos,Região de Governo de Cruzeiro,Região Metropolitana do Vale do Paraíba e Litoral Norte,-
+EMPLASA e DAEE,3508504,Caçapava,02 - Paraíba do Sul,Região Administrativa de São José dos Campos,Região de Governo de São José dos Campos,Região Metropolitana do Vale do Paraíba e Litoral Norte,-
+EMPLASA e DAEE,3508603,Cachoeira Paulista,02 - Paraíba do Sul,Região Administrativa de São José dos Campos,Região de Governo de Guaratinguetá,Região Metropolitana do Vale do Paraíba e Litoral Norte,-
+EMPLASA e DAEE,3509957,Canas,02 - Paraíba do Sul,Região Administrativa de São José dos Campos,Região de Governo de Guaratinguetá,Região Metropolitana do Vale do Paraíba e Litoral Norte,-
+EMPLASA e DAEE,3513405,Cruzeiro,02 - Paraíba do Sul,Região Administrativa de São José dos Campos,Região de Governo de Cruzeiro,Região Metropolitana do Vale do Paraíba e Litoral Norte,-
+EMPLASA,3513603,Cunha,02 - Paraíba do Sul,Região Administrativa de São José dos Campos,Região de Governo de Guaratinguetá,Região Metropolitana do Vale do Paraíba e Litoral Norte,-
+EMPLASA e DAEE,3518305,Guararema,02 - Paraíba do Sul,-,-,Região Metropolitana de São Paulo,-
+EMPLASA e DAEE,3518404,Guaratinguetá,02 - Paraíba do Sul,Região Administrativa de São José dos Campos,Região de Governo de Guaratinguetá,Região Metropolitana do Vale do Paraíba e Litoral Norte,-
+EMPLASA e DAEE,3520202,Igaratá,02 - Paraíba do Sul,Região Administrativa de São José dos Campos,Região de Governo de São José dos Campos,Região Metropolitana do Vale do Paraíba e Litoral Norte,-
+EMPLASA e DAEE,3524402,Jacareí,02 - Paraíba do Sul,Região Administrativa de São José dos Campos,Região de Governo de São José dos Campos,Região Metropolitana do Vale do Paraíba e Litoral Norte,-
+EMPLASA e DAEE,3524907,Jambeiro,02 - Paraíba do Sul,Região Administrativa de São José dos Campos,Região de Governo de São José dos Campos,Região Metropolitana do Vale do Paraíba e Litoral Norte,-
+EMPLASA e DAEE,3526308,Lagoinha,02 - Paraíba do Sul,Região Administrativa de São José dos Campos,Região de Governo de Taubaté,Região Metropolitana do Vale do Paraíba e Litoral Norte,-
+DAEE,3506904,Bofete,10 - Tietê/Sorocaba,Região Administrativa de Sorocaba,Região de Governo de Botucatu,-,-
+EMPLASA e DAEE,3526605,Lavrinhas,02 - Paraíba do Sul,Região Administrativa de São José dos Campos,Região de Governo de Cruzeiro,Região Metropolitana do Vale do Paraíba e Litoral Norte,-
+EMPLASA e DAEE,3527207,Lorena,02 - Paraíba do Sul,Região Administrativa de São José dos Campos,Região de Governo de Guaratinguetá,Região Metropolitana do Vale do Paraíba e Litoral Norte,-
+DAEE,3507506,Botucatu,10 - Tietê/Sorocaba,Região Administrativa de Sorocaba,Região de Governo de Botucatu,-,-
+EMPLASA e DAEE,3531704,Monteiro Lobato,02 - Paraíba do Sul,Região Administrativa de São José dos Campos,Região de Governo de São José dos Campos,Região Metropolitana do Vale do Paraíba e Litoral Norte,-
+EMPLASA e DAEE,3532306,Natividade da Serra,02 - Paraíba do Sul,Região Administrativa de São José dos Campos,Região de Governo de Taubaté,Região Metropolitana do Vale do Paraíba e Litoral Norte,-
+EMPLASA e DAEE,3535606,Paraibuna,02 - Paraíba do Sul,Região Administrativa de São José dos Campos,Região de Governo de São José dos Campos,Região Metropolitana do Vale do Paraíba e Litoral Norte,-
+EMPLASA e DAEE,3538006,Pindamonhangaba,02 - Paraíba do Sul,Região Administrativa de São José dos Campos,Região de Governo de Taubaté,Região Metropolitana do Vale do Paraíba e Litoral Norte,-
+EMPLASA e DAEE,3538501,Piquete,02 - Paraíba do Sul,Região Administrativa de São José dos Campos,Região de Governo de Guaratinguetá,Região Metropolitana do Vale do Paraíba e Litoral Norte,-
+EMPLASA e DAEE,3540754,Potim,02 - Paraíba do Sul,Região Administrativa de São José dos Campos,Região de Governo de Guaratinguetá,Região Metropolitana do Vale do Paraíba e Litoral Norte,-
+DAEE,3110509,Camanducaia,MG ,MG,MG,MG,MG
+EMPLASA e DAEE,3541901,Queluz,02 - Paraíba do Sul,Região Administrativa de São José dos Campos,Região de Governo de Cruzeiro,Região Metropolitana do Vale do Paraíba e Litoral Norte,-
+EMPLASA e DAEE,3542305,Redenção da Serra,02 - Paraíba do Sul,Região Administrativa de São José dos Campos,Região de Governo de Taubaté,Região Metropolitana do Vale do Paraíba e Litoral Norte,-
+EMPLASA e DAEE,3544301,Roseira,02 - Paraíba do Sul,Região Administrativa de São José dos Campos,Região de Governo de Guaratinguetá,Região Metropolitana do Vale do Paraíba e Litoral Norte,-
+EMPLASA e DAEE,3546009,Santa Branca,02 - Paraíba do Sul,Região Administrativa de São José dos Campos,Região de Governo de São José dos Campos,Região Metropolitana do Vale do Paraíba e Litoral Norte,-
+EMPLASA e DAEE,3546801,Santa Isabel,02 - Paraíba do Sul,-,-,Região Metropolitana de São Paulo,-
+EMPLASA,3549607,São José do Barreiro,02 - Paraíba do Sul,Região Administrativa de São José dos Campos,Região de Governo de Cruzeiro,Região Metropolitana do Vale do Paraíba e Litoral Norte,-
+EMPLASA e DAEE,3549904,São José dos Campos,02 - Paraíba do Sul,Região Administrativa de São José dos Campos,Região de Governo de São José dos Campos,Região Metropolitana do Vale do Paraíba e Litoral Norte,-
+EMPLASA e DAEE,3550001,São Luís do Paraitinga,02 - Paraíba do Sul,Região Administrativa de São José dos Campos,Região de Governo de Taubaté,Região Metropolitana do Vale do Paraíba e Litoral Norte,-
+EMPLASA e DAEE,3552007,Silveiras,02 - Paraíba do Sul,Região Administrativa de São José dos Campos,Região de Governo de Cruzeiro,Região Metropolitana do Vale do Paraíba e Litoral Norte,-
+EMPLASA e DAEE,3554102,Taubaté,02 - Paraíba do Sul,Região Administrativa de São José dos Campos,Região de Governo de Taubaté,Região Metropolitana do Vale do Paraíba e Litoral Norte,-
+EMPLASA e DAEE,3554805,Tremembé,02 - Paraíba do Sul,Região Administrativa de São José dos Campos,Região de Governo de Taubaté,Região Metropolitana do Vale do Paraíba e Litoral Norte,-
+EMPLASA e DAEE,3510500,Caraguatatuba,03 - Litoral Norte,Região Administrativa de São José dos Campos,Região de Governo de Caraguatatuba,Região Metropolitana do Vale do Paraíba e Litoral Norte,-
+DAEE,3512308,Conchas,10 - Tietê/Sorocaba,Região Administrativa de Sorocaba,Região de Governo de Botucatu,-,-
+EMPLASA,3520400,Ilhabela,03 - Litoral Norte,Região Administrativa de São José dos Campos,Região de Governo de Caraguatatuba,Região Metropolitana do Vale do Paraíba e Litoral Norte,-
+EMPLASA e DAEE,3550704,São Sebastião,03 - Litoral Norte,Região Administrativa de São José dos Campos,Região de Governo de Caraguatatuba,Região Metropolitana do Vale do Paraíba e Litoral Norte,-
+EMPLASA e DAEE,3555406,Ubatuba,03 - Litoral Norte,Região Administrativa de São José dos Campos,Região de Governo de Caraguatatuba,Região Metropolitana do Vale do Paraíba e Litoral Norte,-
+EMPLASA e DAEE,3500600,Águas de São Pedro,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Piracicaba,-,Aglomeração Urbana de Piracicaba
+EMPLASA e DAEE,3501608,Americana,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Campinas,Região Metropolitana de Campinas,-
+EMPLASA e DAEE,3502002,Analândia,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Rio Claro,-,Aglomeração Urbana de Piracicaba
+EMPLASA e DAEE,3503802,Artur Nogueira,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Campinas,Região Metropolitana de Campinas,-
+EMPLASA e DAEE,3504107,Atibaia,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Bragança Paulista,-,-
+EMPLASA e DAEE,3507100,Bom Jesus dos Perdões,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Bragança Paulista,-,-
+EMPLASA e DAEE,3507605,Bragança Paulista,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Bragança Paulista,-,-
+EMPLASA e DAEE,3510401,Capivari,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Piracicaba,-,Aglomeração Urbana de Piracicaba
+EMPLASA e DAEE,3511706,Charqueada,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Piracicaba,-,Aglomeração Urbana de Piracicaba
+DAEE,3125101,Extrema,MG ,MG,MG,MG,MG
+EMPLASA e DAEE,3512407,Cordeirópolis,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Limeira,-,Aglomeração Urbana de Piracicaba
+EMPLASA e DAEE,3512704,Corumbataí,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Rio Claro,-,Aglomeração Urbana de Piracicaba
+EMPLASA e DAEE,3512803,Cosmópolis,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Campinas,Região Metropolitana de Campinas,-
+EMPLASA e DAEE,3514908,Elias Fausto,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Piracicaba,-,Aglomeração Urbana de Piracicaba
+EMPLASA e DAEE,3519055,Holambra,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Campinas,Região Metropolitana de Campinas,-
+EMPLASA e DAEE,3519071,Hortolândia,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Campinas,Região Metropolitana de Campinas,-
+EMPLASA e DAEE,3520509,Indaiatuba,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Campinas,Região Metropolitana de Campinas,-
+EMPLASA e DAEE,3521101,Ipeúna,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Rio Claro,-,Aglomeração Urbana de Piracicaba
+EMPLASA e DAEE,3521408,Iracemápolis,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Limeira,-,Aglomeração Urbana de Piracicaba
+EMPLASA e DAEE,3523404,Itatiba,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Jundiaí,Região Metropolitana de Campinas,-
+EMPLASA e DAEE,3524006,Itupeva,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Jundiaí,-,Aglomeração Urbana de Jundiaí
+EMPLASA e DAEE,3524709,Jaguariúna,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Campinas,Região Metropolitana de Campinas,-
+EMPLASA e DAEE,3525201,Jarinu,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Jundiaí,-,Aglomeração Urbana de Jundiaí
+EMPLASA e DAEE,3525508,Joanópolis,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Bragança Paulista,-,-
+EMPLASA e DAEE,3525904,Jundiaí,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Jundiaí,-,Aglomeração Urbana de Jundiaí
+EMPLASA e DAEE,3526902,Limeira,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Limeira,-,Aglomeração Urbana de Piracicaba
+EMPLASA e DAEE,3527306,Louveira,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Jundiaí,-,Aglomeração Urbana de Jundiaí
+EMPLASA e DAEE,3530904,Mombuca,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Piracicaba,-,Aglomeração Urbana de Piracicaba
+EMPLASA e DAEE,3531803,Monte Mor,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Campinas,Região Metropolitana de Campinas,-
+DAEE,3133600,Itapeva,MG ,MG,MG,MG,MG
+EMPLASA e DAEE,3532009,Morungaba,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Jundiaí,Região Metropolitana de Campinas,-
+EMPLASA e DAEE,3532405,Nazaré Paulista,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Bragança Paulista,-,-
+EMPLASA e DAEE,3533403,Nova Odessa,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Campinas,Região Metropolitana de Campinas,-
+EMPLASA e DAEE,3536505,Paulínia,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Campinas,Região Metropolitana de Campinas,-
+EMPLASA e DAEE,3536802,Pedra Bela,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Bragança Paulista,-,-
+EMPLASA e DAEE,3537107,Pedreira,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Campinas,Região Metropolitana de Campinas,-
+EMPLASA e DAEE,3538204,Pinhalzinho,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Bragança Paulista,-,-
+EMPLASA e DAEE,3538600,Piracaia,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Bragança Paulista,-,-
+EMPLASA e DAEE,3538709,Piracicaba,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Piracicaba,-,Aglomeração Urbana de Piracicaba
+EMPLASA e DAEE,3542107,Rafard,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Piracicaba,-,Aglomeração Urbana de Piracicaba
+EMPLASA e DAEE,3543907,Rio Claro,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Rio Claro,-,Aglomeração Urbana de Piracicaba
+EMPLASA e DAEE,3544004,Rio das Pedras,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Piracicaba,-,Aglomeração Urbana de Piracicaba
+EMPLASA e DAEE,3545159,Saltinho,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Piracicaba,-,Aglomeração Urbana de Piracicaba
+EMPLASA e DAEE,3545209,Salto,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Sorocaba,Região de Governo de Sorocaba,Região Metropolitana de Sorocaba,-
+EMPLASA e DAEE,3545803,Santa Bárbara d'Oeste,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Campinas,Região Metropolitana de Campinas,-
+EMPLASA e DAEE,3546702,Santa Gertrudes,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Rio Claro,-,Aglomeração Urbana de Piracicaba
+EMPLASA e DAEE,3547007,Santa Maria da Serra,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Piracicaba,-,Aglomeração Urbana de Piracicaba
+EMPLASA e DAEE,3548005,Santo Antônio de Posse,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Campinas,Região Metropolitana de Campinas,-
+EMPLASA e DAEE,3550407,São Pedro,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Piracicaba,-,Aglomeração Urbana de Piracicaba
+EMPLASA e DAEE,3552403,Sumaré,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Campinas,Região Metropolitana de Campinas,-
+EMPLASA e DAEE,3554953,Tuiuti,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Bragança Paulista,-,-
+EMPLASA e DAEE,3556206,Valinhos,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Campinas,Região Metropolitana de Campinas,-
+EMPLASA e DAEE,3556354,Vargem,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Bragança Paulista,-,-
+EMPLASA e DAEE,3556503,Várzea Paulista,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Jundiaí,-,Aglomeração Urbana de Jundiaí
+EMPLASA e DAEE,3556701,Vinhedo,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Campinas,Região Metropolitana de Campinas,-
+DAEE,3530706,Mogi Guaçu,09 - Mogi-Guaçu,Região Administrativa de Campinas,Região de Governo de Campinas,-,-
+DAEE,3530805,Mogi Mirim,09 - Mogi-Guaçu,Região Administrativa de Campinas,Região de Governo de Campinas,-,-
+EMPLASA e DAEE,3509601,Campo Limpo Paulista,"05 - Piracicaba/Capivari/Jundiaí
+",Região Administrativa de Campinas,Região de Governo de Jundiaí,-,Aglomeração Urbana de Jundiaí
+EMPLASA e DAEE,3509502,Campinas,05 - Piracicaba/Capivari/Jundiaí ,Região Administrativa de Campinas,Região de Governo de Campinas,Região Metropolitana de Campinas,-
+DAEE,3531209,Monte Alegre do Sul,05 - Piracicaba/Capivari/Jundiaí,Região Administrativa de Campinas,Região de Governo de Bragança Paulista,-,-
+EMPLASA e DAEE,3503901,Arujá,06 - Alto Tietê,-,-,Região Metropolitana de São Paulo,-
+EMPLASA e DAEE,3505708,Barueri,06 - Alto Tietê,-,-,Região Metropolitana de São Paulo,-
+EMPLASA e DAEE,3506607,Biritiba-Mirim,06 - Alto Tietê,-,-,Região Metropolitana de São Paulo,-
+EMPLASA e DAEE,3509007,Caieiras,06 - Alto Tietê,-,-,Região Metropolitana de São Paulo,-
+EMPLASA e DAEE,3509205,Cajamar,06 - Alto Tietê,-,-,Região Metropolitana de São Paulo,-
+EMPLASA e DAEE,3510609,Carapicuíba,06 - Alto Tietê,-,-,Região Metropolitana de São Paulo,-
+EMPLASA e DAEE,3513009,Cotia,06 - Alto Tietê,-,-,Região Metropolitana de São Paulo,-
+EMPLASA e DAEE,3513801,Diadema,06 - Alto Tietê,-,-,Região Metropolitana de São Paulo,-
+EMPLASA e DAEE,3515004,Embu das Artes,06 - Alto Tietê,-,-,Região Metropolitana de São Paulo,-
+EMPLASA e DAEE,3515103,Embu-Guaçu,06 - Alto Tietê,-,-,Região Metropolitana de São Paulo,-
+EMPLASA e DAEE,3515707,Ferraz de Vasconcelos,06 - Alto Tietê,-,-,Região Metropolitana de São Paulo,-
+DAEE,3537503,Pereiras,10 - Tietê/Sorocaba,Região Administrativa de Sorocaba,Região de Governo de Botucatu,-,-
+EMPLASA e DAEE,3516309,Francisco Morato,06 - Alto Tietê,-,-,Região Metropolitana de São Paulo,-
+EMPLASA e DAEE,3516408,Franco da Rocha,06 - Alto Tietê,-,-,Região Metropolitana de São Paulo,-
+EMPLASA e DAEE,3518800,Guarulhos,06 - Alto Tietê,-,-,Região Metropolitana de São Paulo,-
+EMPLASA e DAEE,3522208,Itapecerica da Serra,06 - Alto Tietê,-,-,Região Metropolitana de São Paulo,-
+EMPLASA e DAEE,3522505,Itapevi,06 - Alto Tietê,-,-,Região Metropolitana de São Paulo,-
+EMPLASA e DAEE,3523107,Itaquaquecetuba,06 - Alto Tietê,-,-,Região Metropolitana de São Paulo,-
+EMPLASA e DAEE,3525003,Jandira,06 - Alto Tietê,-,-,Região Metropolitana de São Paulo,-
+EMPLASA e DAEE,3528502,Mairiporã,06 - Alto Tietê,-,-,Região Metropolitana de São Paulo,-
+EMPLASA e DAEE,3529401,Mauá,06 - Alto Tietê,-,-,Região Metropolitana de São Paulo,-
+EMPLASA e DAEE,3530607,Mogi das Cruzes,06 - Alto Tietê,-,-,Região Metropolitana de São Paulo,-
+DAEE,3540507,Porangaba,10 - Tietê/Sorocaba,Região Administrativa de Sorocaba,Região de Governo de Botucatu,-,-
+EMPLASA e DAEE,3534401,Osasco,06 - Alto Tietê,-,-,Região Metropolitana de São Paulo,-
+EMPLASA e DAEE,3539103,Pirapora do Bom Jesus,06 - Alto Tietê,-,-,Região Metropolitana de São Paulo,-
+EMPLASA e DAEE,3539806,Poá,06 - Alto Tietê,-,-,Região Metropolitana de São Paulo,-
+DAEE,3541653,Quadra,10 - Tietê/Sorocaba,Região Administrativa de Sorocaba,Região de Governo de Itapetininga,-,-
+EMPLASA e DAEE,3543303,Ribeirão Pires,06 - Alto Tietê,-,-,Região Metropolitana de São Paulo,-
+EMPLASA e DAEE,3544103,Rio Grande da Serra,06 - Alto Tietê,-,-,Região Metropolitana de São Paulo,-
+EMPLASA e DAEE,3545001,Salesópolis,06 - Alto Tietê,-,-,Região Metropolitana de São Paulo,-
+EMPLASA e DAEE,3547304,Santana de Parnaíba,06 - Alto Tietê,-,-,Região Metropolitana de São Paulo,-
+EMPLASA e DAEE,3547809,Santo André,06 - Alto Tietê,-,-,Região Metropolitana de São Paulo,-
+EMPLASA e DAEE,3548708,São Bernardo do Campo,06 - Alto Tietê,-,-,Região Metropolitana de São Paulo,-
+EMPLASA e DAEE,3548807,São Caetano do Sul,06 - Alto Tietê,-,-,Região Metropolitana de São Paulo,-
+EMPLASA e DAEE,3550308,São Paulo,06 - Alto Tietê,-,-,Região Metropolitana de São Paulo,-
+EMPLASA e DAEE,3552502,Suzano,06 - Alto Tietê,-,-,Região Metropolitana de São Paulo,-
+EMPLASA e DAEE,3552809,Taboão da Serra,06 - Alto Tietê,-,-,Região Metropolitana de São Paulo,-
+EMPLASA e DAEE,3506359,Bertioga,07 - Baixada Santista,Região Administrativa de Santos,Região de Governo de Santos,Região Metropolitana da Baixada Santista,-
+EMPLASA e DAEE,3513504,Cubatão,07 - Baixada Santista,Região Administrativa de Santos,Região de Governo de Santos,Região Metropolitana da Baixada Santista,-
+EMPLASA e DAEE,3518701,Guarujá,07 - Baixada Santista,Região Administrativa de Santos,Região de Governo de Santos,Região Metropolitana da Baixada Santista,-
+EMPLASA e DAEE,3522109,Itanhaém,07 - Baixada Santista,Região Administrativa de Santos,Região de Governo de Santos,Região Metropolitana da Baixada Santista,-
+EMPLASA e DAEE,3531100,Mongaguá,07 - Baixada Santista,Região Administrativa de Santos,Região de Governo de Santos,Região Metropolitana da Baixada Santista,-
+EMPLASA e DAEE,3537602,Peruíbe,07 - Baixada Santista,Região Administrativa de Santos,Região de Governo de Santos,Região Metropolitana da Baixada Santista,-
+EMPLASA e DAEE,3541000,Praia Grande,07 - Baixada Santista,Região Administrativa de Santos,Região de Governo de Santos,Região Metropolitana da Baixada Santista,-
+EMPLASA e DAEE,3548500,Santos,07 - Baixada Santista,Região Administrativa de Santos,Região de Governo de Santos,Região Metropolitana da Baixada Santista,-
+EMPLASA e DAEE,3551009,São Vicente,07 - Baixada Santista,Região Administrativa de Santos,Região de Governo de Santos,Região Metropolitana da Baixada Santista,-
+EMPLASA e DAEE,3503307,Araras,09 - Mogi-Guaçu,Região Administrativa de Campinas,Região de Governo de Limeira,-,Aglomeração Urbana de Piracicaba
+EMPLASA e DAEE,3512209,Conchal,09 - Mogi-Guaçu,Região Administrativa de Campinas,Região de Governo de Limeira,-,Aglomeração Urbana de Piracicaba
+EMPLASA e DAEE,3515152,Engenheiro Coelho,09 - Mogi-Guaçu,Região Administrativa de Campinas,Região de Governo de Campinas,Região Metropolitana de Campinas,-
+EMPLASA e DAEE,3526704,Leme,09 - Mogi-Guaçu,Região Administrativa de Campinas,Região de Governo de Limeira,-,Aglomeração Urbana de Piracicaba
+EMPLASA e DAEE,3500758,Alambari,10 - Tietê/Sorocaba,Região Administrativa de Sorocaba,Região de Governo de Itapetininga,Região Metropolitana de Sorocaba,-
+EMPLASA e DAEE,3501152,Alumínio,10 - Tietê/Sorocaba,Região Administrativa de Sorocaba,Região de Governo de Sorocaba,Região Metropolitana de Sorocaba,-
+EMPLASA e DAEE,3502754,Araçariguama,10 - Tietê/Sorocaba,Região Administrativa de Sorocaba,Região de Governo de Sorocaba,Região Metropolitana de Sorocaba,-
+EMPLASA e DAEE,3502903,Araçoiaba da Serra,10 - Tietê/Sorocaba,Região Administrativa de Sorocaba,Região de Governo de Sorocaba,Região Metropolitana de Sorocaba,-
+EMPLASA e DAEE,3507001,Boituva,10 - Tietê/Sorocaba,Região Administrativa de Sorocaba,Região de Governo de Itapetininga,Região Metropolitana de Sorocaba,-
+EMPLASA e DAEE,3508405,Cabreúva,10 - Tietê/Sorocaba,Região Administrativa de Campinas,Região de Governo de Jundiaí,-,Aglomeração Urbana de Jundiaí
+EMPLASA e DAEE,3510302,Capela do Alto,10 - Tietê/Sorocaba,Região Administrativa de Sorocaba,Região de Governo de Itapetininga,Região Metropolitana de Sorocaba,-
+EMPLASA e DAEE,3511508,Cerquilho,10 - Tietê/Sorocaba,Região Administrativa de Sorocaba,Região de Governo de Itapetininga,Região Metropolitana de Sorocaba,-
+EMPLASA e DAEE,3511607,Cesário Lange,10 - Tietê/Sorocaba,Região Administrativa de Sorocaba,Região de Governo de Itapetininga,Região Metropolitana de Sorocaba,-
+EMPLASA e DAEE,3519709,Ibiúna,10 - Tietê/Sorocaba,Região Administrativa de Sorocaba,Região de Governo de Sorocaba,Região Metropolitana de Sorocaba,-
+EMPLASA e DAEE,3521002,Iperó,10 - Tietê/Sorocaba,Região Administrativa de Sorocaba,Região de Governo de Sorocaba,Região Metropolitana de Sorocaba,-
+EMPLASA e DAEE,3523909,Itu,10 - Tietê/Sorocaba,Região Administrativa de Sorocaba,Região de Governo de Sorocaba,Região Metropolitana de Sorocaba,-
+EMPLASA e DAEE,3525854,Jumirim,10 - Tietê/Sorocaba,Região Administrativa de Sorocaba,Região de Governo de Sorocaba,Região Metropolitana de Sorocaba,-
+DAEE,3551603,Serra Negra,09 - Mogi-Guaçu,Região Administrativa de Campinas,Região de Governo de Bragança Paulista,-,-
+EMPLASA e DAEE,3526407,Laranjal Paulista,10 - Tietê/Sorocaba,Região Administrativa de Sorocaba,Região de Governo de Botucatu,-,Aglomeração Urbana de Piracicaba
+DAEE,3552106,Socorro,09 - Mogi-Guaçu,Região Administrativa de Campinas,Região de Governo de Bragança Paulista,-,-
+EMPLASA e DAEE,3528403,Mairinque,10 - Tietê/Sorocaba,Região Administrativa de Sorocaba,Região de Governo de Sorocaba,Região Metropolitana de Sorocaba,-
+EMPLASA e DAEE,3537800,Piedade,10 - Tietê/Sorocaba,Região Administrativa de Sorocaba,Região de Governo de Sorocaba,Região Metropolitana de Sorocaba,-
+EMPLASA e DAEE,3540606,Porto Feliz,10 - Tietê/Sorocaba,Região Administrativa de Sorocaba,Região de Governo de Sorocaba,Região Metropolitana de Sorocaba,-
+EMPLASA e DAEE,3545308,Salto de Pirapora,10 - Tietê/Sorocaba,Região Administrativa de Sorocaba,Região de Governo de Sorocaba,Região Metropolitana de Sorocaba,-
+EMPLASA e DAEE,3550605,São Roque,10 - Tietê/Sorocaba,Região Administrativa de Sorocaba,Região de Governo de Sorocaba,Região Metropolitana de Sorocaba,-
+EMPLASA e DAEE,3551108,Sarapuí,10 - Tietê/Sorocaba,Região Administrativa de Sorocaba,Região de Governo de Itapetininga,Região Metropolitana de Sorocaba,-
+EMPLASA e DAEE,3552205,Sorocaba,10 - Tietê/Sorocaba,Região Administrativa de Sorocaba,Região de Governo de Sorocaba,Região Metropolitana de Sorocaba,-
+EMPLASA e DAEE,3554003,Tatuí,10 - Tietê/Sorocaba,Região Administrativa de Sorocaba,Região de Governo de Itapetininga,Região Metropolitana de Sorocaba,-
+DAEE,3169109,Toledo,MG ,MG,MG,MG,MG
+DAEE,3554656,Torre de Pedra,10 - Tietê/Sorocaba,Região Administrativa de Sorocaba,Região de Governo de Botucatu,-,-
+EMPLASA e DAEE,3554508,Tietê,10 - Tietê/Sorocaba,Região Administrativa de Sorocaba,Região de Governo de Sorocaba,Região Metropolitana de Sorocaba,-
+EMPLASA e DAEE,3556453,Vargem Grande Paulista,10 - Tietê/Sorocaba,-,-,Região Metropolitana de São Paulo,-
+EMPLASA e DAEE,3557006,Votorantim,10 - Tietê/Sorocaba,Região Administrativa de Sorocaba,Região de Governo de Sorocaba,Região Metropolitana de Sorocaba,-
+EMPLASA e DAEE,3526209,Juquitiba,11 - Ribeira de Iguape/Litoral Sul,-,-,Região Metropolitana de São Paulo,-
+EMPLASA e DAEE,3549953,São Lourenço da Serra,11 - Ribeira de Iguape/Litoral Sul,-,-,Região Metropolitana de São Paulo,-
+EMPLASA,3553500,Tapiraí,11 - Ribeira de Iguape/Litoral Sul,Região Administrativa de Sorocaba,Região de Governo de Sorocaba,Região Metropolitana de Sorocaba,-
+EMPLASA,3522307,Itapetininga,14 - Alto Paranapanema,Região Administrativa de Sorocaba,Região de Governo de Itapetininga,Região Metropolitana de Sorocaba,-
+EMPLASA,3537909,Pilar do Sul,14 - Alto Paranapanema,Região Administrativa de Sorocaba,Região de Governo de Sorocaba,Região Metropolitana de Sorocaba,-
+EMPLASA,3550209,São Miguel Arcanjo,14 - Alto Paranapanema,Região Administrativa de Sorocaba,Região de Governo de Itapetininga,Região Metropolitana de Sorocaba,-
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,3531605,,,,,,
+,3531803,,,,,,
+,3531704,,,,,,
+,3531902,,,,,,
+,3532009,,,,,,
+,3532058,,,,,,
+,3532108,,,,,,
+,3532157,,,,,,
+,3532207,,,,,,
+,3532306,,,,,,
+,3532405,,,,,,
+,3532504,,,,,,
+,3532603,,,,,,
+,3532702,,,,,,
+,3532801,,,,,,
+,3532827,,,,,,
+,3532843,,,,,,
+,3532868,,,,,,
+,3532900,,,,,,
+,3533007,,,,,,
+,3533106,,,,,,
+,3533205,,,,,,
+,3533304,,,,,,
+,3533403,,,,,,
+,3533254,,,,,,
+,3533502,,,,,,
+,3533601,,,,,,
+,3533700,,,,,,
+,3533809,,,,,,
+,3533908,,,,,,
+,3534005,,,,,,
+,3534104,,,,,,
+,3534203,,,,,,
+,3534302,,,,,,
+,3534401,,,,,,
+,3534500,,,,,,
+,3534609,,,,,,
+,3534708,,,,,,
+,3534807,,,,,,
+,3534757,,,,,,
+,3534906,,,,,,
+,3535002,,,,,,
+,3535101,,,,,,
+,3535200,,,,,,
+,3535309,,,,,,
+,3535408,,,,,,
+,3535507,,,,,,
+,3535606,,,,,,
+,3535705,,,,,,
+,3535804,,,,,,
+,3535903,,,,,,
+,3536000,,,,,,
+,3536109,,,,,,
+,3536208,,,,,,
+,3536257,,,,,,
+,3536307,,,,,,
+,3536406,,,,,,
+,3536505,,,,,,
+,3536570,,,,,,
+,3536604,,,,,,
+,3536703,,,,,,
+,3536802,,,,,,
+,3536901,,,,,,
+,3537008,,,,,,
+,3537107,,,,,,
+,3537156,,,,,,
+,3537206,,,,,,
+,3537305,,,,,,
+,3537404,,,,,,
+,3537503,,,,,,
+,3537602,,,,,,
+,3537701,,,,,,
+,3537800,,,,,,
+,3537909,,,,,,
+,3538006,,,,,,
+,3538105,,,,,,
+,3538204,,,,,,
+,3538303,,,,,,
+,3538501,,,,,,
+,3538600,,,,,,
+,3538709,,,,,,
+,3538808,,,,,,
+,3538907,,,,,,
+,3539004,,,,,,
+,3539103,,,,,,
+,3539202,,,,,,
+,3539301,,,,,,
+,3539400,,,,,,
+,3539509,,,,,,
+,3539608,,,,,,
+,3539707,,,,,,
+,3539806,,,,,,
+,3539905,,,,,,
+,3540002,,,,,,
+,3540101,,,,,,
+,3540200,,,,,,
+,3540259,,,,,,
+,3540309,,,,,,
+,3540408,,,,,,
+,3540507,,,,,,
+,3540606,,,,,,
+,3540705,,,,,,
+,3540754,,,,,,
+,3540804,,,,,,
+,3540853,,,,,,
+,3540903,,,,,,
+,3541000,,,,,,
+,3541059,,,,,,
+,3541109,,,,,,
+,3541208,,,,,,
+,3541307,,,,,,
+,3541406,,,,,,
+,3541505,,,,,,
+,3541604,,,,,,
+,3541653,,,,,,
+,3541703,,,,,,
+,3541802,,,,,,
+,3541901,,,,,,
+,3542008,,,,,,
+,3542107,,,,,,
+,3542206,,,,,,
+,3542305,,,,,,
+,3542404,,,,,,
+,3542503,,,,,,
+,3542602,,,,,,
+,3542701,,,,,,
+,3542800,,,,,,
+,3542909,,,,,,
+,3543006,,,,,,
+,3543105,,,,,,
+,3543204,,,,,,
+,3543238,,,,,,
+,3543253,,,,,,
+,3543303,,,,,,
+,3543402,,,,,,
+,3543600,,,,,,
+,3543709,,,,,,
+,3543808,,,,,,
+,3543907,,,,,,
+,3544004,,,,,,
+,3544103,,,,,,
+,3544202,,,,,,
+,3543501,,,,,,
+,3544251,,,,,,
+,3544301,,,,,,
+,3544400,,,,,,
+,3544509,,,,,,
+,3544608,,,,,,
+,3544707,,,,,,
+,3544806,,,,,,
+,3544905,,,,,,
+,3545001,,,,,,
+,3545100,,,,,,
+,3545159,,,,,,
+,3545209,,,,,,
+,3545308,,,,,,
+,3545407,,,,,,
+,3545506,,,,,,
+,3545605,,,,,,
+,3545704,,,,,,
+,3545803,,,,,,
+,3546009,,,,,,
+,3546108,,,,,,
+,3546207,,,,,,
+,3546256,,,,,,
+,3546306,,,,,,
+,3546405,,,,,,
+,3546504,,,,,,
+,3546603,,,,,,
+,3546702,,,,,,
+,3546801,,,,,,
+,3546900,,,,,,
+,3547007,,,,,,
+,3547106,,,,,,
+,3547403,,,,,,
+,3547502,,,,,,
+,3547601,,,,,,
+,3547650,,,,,,
+,3547205,,,,,,
+,3547304,,,,,,
+,3547700,,,,,,
+,3547809,,,,,,
+,3547908,,,,,,
+,3548005,,,,,,
+,3548054,,,,,,
+,3548104,,,,,,
+,3548203,,,,,,
+,3548302,,,,,,
+,3548401,,,,,,
+,3548500,,,,,,
+,3548609,,,,,,
+,3548708,,,,,,
+,3548807,,,,,,
+,3548906,,,,,,
+,3549003,,,,,,
+,3549102,,,,,,
+,3549201,,,,,,
+,3549250,,,,,,
+,3549300,,,,,,
+,3549409,,,,,,
+,3549508,,,,,,
+,3549607,,,,,,
+,3549706,,,,,,
+,3549805,,,,,,
+,3549904,,,,,,
+,3549953,,,,,,
+,3550001,,,,,,
+,3550100,,,,,,
+,3550209,,,,,,
+,3550308,,,,,,
+,3550407,,,,,,
+,3550506,,,,,,
+,3550605,,,,,,
+,3550704,,,,,,
+,3550803,,,,,,
+,3550902,,,,,,
+,3551009,,,,,,
+,3551108,,,,,,
+,3551207,,,,,,
+,3551306,,,,,,
+,3551405,,,,,,
+,3551603,,,,,,
+,3551504,,,,,,
+,3551702,,,,,,
+,3551801,,,,,,
+,3551900,,,,,,
+,3552007,,,,,,
+,3552106,,,,,,
+,3552205,,,,,,
+,3552304,,,,,,
+,3552403,,,,,,
+,3552551,,,,,,
+,3552502,,,,,,
+,3552601,,,,,,
+,3552700,,,,,,
+,3552809,,,,,,
+,3552908,,,,,,
+,3553005,,,,,,
+,3553104,,,,,,
+,3553203,,,,,,
+,3553302,,,,,,
+,3553401,,,,,,
+,3553500,,,,,,
+,3553609,,,,,,
+,3553658,,,,,,
+,3553708,,,,,,
+,3553807,,,,,,
+,3553856,,,,,,
+,3553906,,,,,,
+,3553955,,,,,,
+,3554003,,,,,,
+,3554102,,,,,,
+,3554201,,,,,,
+,3554300,,,,,,
+,3554409,,,,,,
+,3554508,,,,,,
+,3554607,,,,,,
+,3554656,,,,,,
+,3554706,,,,,,
+,3554755,,,,,,
+,3554805,,,,,,
+,3554904,,,,,,
+,3554953,,,,,,
+,3555000,,,,,,
+,3555109,,,,,,
+,3555208,,,,,,
+,3555307,,,,,,
+,3555356,,,,,,
+,3555406,,,,,,
+,3555505,,,,,,
+,3555604,,,,,,
+,3555703,,,,,,
+,3555802,,,,,,
+,3555901,,,,,,
+,3556008,,,,,,
+,3556107,,,,,,
+,3556206,,,,,,
+,3556305,,,,,,
+,3556354,,,,,,
+,3556404,,,,,,
+,3556453,,,,,,
+,3556503,,,,,,
+,3556602,,,,,,
+,3556701,,,,,,
+,3556800,,,,,,
+,3556909,,,,,,
+,3556958,,,,,,
+,3557006,,,,,,
+,3557105,,,,,,
+,3557154,,,,,,

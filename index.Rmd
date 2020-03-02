@@ -1,0 +1,138 @@
+---
+title: "Untitled"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(dplyr)
+library(readr)
+library(tidyverse)
+library(geobr)
+```
+
+
+```{r}
+dados_sp <- readRDS("data/DOSP_1996_2017.RDS")  %>% 
+  mutate(codigo_ibge = as.numeric(codmunocor)) %>% 
+    dplyr::mutate(cid10 = stringr::str_extract(causabas, "^.{0,3}"))
+
+
+format(object.size(dados_sp), "GB")
+```
+
+```{r}
+
+mmp_daee_emplasa <- readr::read_csv("data/mmp-daee-emplasa.csv")  %>% janitor::clean_names() 
+
+
+mmp_daee_emplasa$ugrhi <-  mmp_daee_emplasa$unidade_de_gerenciamento_de_recursos_hidricos_ugrhi %>%  stringr::str_remove_all("\r")  %>%  stringr::str_remove_all("\n") 
+
+View(mmp_daee_emplasa)
+```
+
+```{r}
+unique(mmp_daee_emplasa$ugrhi)
+```
+
+```{r}
+# mmp_emplasa <- mmp_daee_emplasa %>% dplyr::filter(recorte %in% c("EMPLASA", "EMPLASA e DAEE"))
+
+mmp_daee <- mmp_daee_emplasa %>% dplyr::filter(recorte %in% c("DAEE", "EMPLASA e DAEE"))
+
+# dados_mmp_emplasa <- dplyr::left_join(mmp_emplasa, dados_sp,  by = "codigo_ibge" )
+
+
+dados_mmp_daee <- dplyr::left_join(mmp_daee, dados_sp,  by = "codigo_ibge" )
+```
+
+```{r}
+# dados_mmp_cidx3_emplasa <- dados_mmp_emplasa %>%
+#       dplyr::filter(stringr::str_detect(causabas, "X3"))
+
+dados_mmp_cidx3_daee <- dados_mmp_daee %>%
+      dplyr::filter(stringr::str_detect(causabas, "X3"))
+
+```
+
+```{r}
+# install.packages("geobr")
+library(geobr)
+```
+```{r}
+datasets <- list_geobr()
+
+print(datasets)
+```
+
+```{r}
+# All municipalities in the state of SP
+  muni_sp <- read_municipality(code_muni= "SP", year=2018)
+  muni_mg <- read_municipality(code_muni= "MG", year=2018)
+  
+  muni_sp_mg <- rbind(muni_sp, muni_mg)
+```
+
+
+```{r}
+muni_mmp_daee <- right_join( muni_sp_mg, mmp_daee, by = c( "code_muni" = "codigo_ibge" ))
+```
+
+```{r}
+library(ggplot2)
+# Remove plot axis
+  no_axis <- theme(axis.title=element_blank(),
+                   axis.text=element_blank(),
+                   axis.ticks=element_blank())
+
+
+
+# Plot all Brazilian states
+  ggplot() +
+    geom_sf(data=muni_mmp_daee, fill="#EEEEEE", color="#FEBF57", size=.15, show.legend = FALSE) +
+    labs(subtitle="States", size=8) +
+    theme_minimal() +
+    no_axis
+```
+
+```{r}
+ggplot() +
+    geom_sf(data=muni_mmp_daee, aes(fill= ugrhi), color= NA, size=.15) +
+  labs(fill = "UGRHI")+
+      theme_minimal() +
+      no_axis
+
+
+muni_mmp_daee$ughri
+```
+
+```{r}
+muni_mmp_daee_datasus <- left_join(dados_mmp_cidx3_daee, muni_mmp_daee, by = c("codigo_ibge" = "code_muni" ))
+```
+
+```{r}
+
+qnt_mmp <- muni_mmp_daee_datasus %>% 
+  group_by(codigo_ibge) %>% 
+  summarise(n_ocorrencias = n()) %>%
+  arrange(desc(n_ocorrencias)) 
+  
+quant_mmp_mapa <- right_join(qnt_mmp, muni_mmp_daee, by = c("codigo_ibge" = "code_muni" )) %>% 
+    mutate(n_ocorrencias = replace(n_ocorrencias,is.na(n_ocorrencias),0)) %>% sf::st_as_sf()
+
+
+quant_mmp_mapa %>%
+  ggplot() +
+  geom_sf(aes(fill = n_ocorrencias)) +
+   scale_fill_distiller(palette = "OrRd", direction = 1)+
+  theme_minimal() +
+  no_axis
+```
+
+
+
+
+
